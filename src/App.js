@@ -23,7 +23,7 @@ export default function App() {
   return (
     <>
       <Header/>
-      <ItemListContainer greeting="Gracias por visitarnos"/>
+      <ItemListContainer/>
       <NavBar/>
       <p>Contador: { contador } </p>
       <button className='btn-outline-success' onClick={ aumentarContador }>+</button>

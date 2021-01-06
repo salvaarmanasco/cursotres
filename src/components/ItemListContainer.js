@@ -1,11 +1,11 @@
 import React from 'react'
+import Item from "./Item"
 
-function ItemListContainer(props) {
+function ItemListContainer() {
     //OBJECT SHORTHAND
-    const {greeting} = props
     return(
         <>
-            <p>{greeting}</p>
+          <Item.js></Item.js>  
         </>
     )
 }

@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "nombre": "PROTEINA VEGETAL NUTRILITE",
+            "precio_al_contado": "$2000",
+            "precio_x3_unidades": "$5500",
+            "precio_dolares_unidad": "U$D11.30"
+        },
+        {
+            "nombre": "MULTIVITAMINICO DOUBLE X",
+            "precio_al_contado": "$3900",
+            "precio_x3_unidades": "$9500",
+            "precio_dolares_unidad": "U$D20"
+        },
+        {
+            "nombre": "OMEGA 3 PLUS",
+            "precio_al_contado": "$2200",
+            "precio_x3_unidades": "$5500",
+            "precio_dolares_unidad": "U$D11.80"
+        }
+    ]
+}
